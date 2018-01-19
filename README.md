@@ -1,2 +1,2 @@
 # sample-code
-Sample PHP code
+Sample code
